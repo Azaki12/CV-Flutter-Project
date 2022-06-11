@@ -1,4 +1,4 @@
-# tests2
+# CV Project
 
 A new Flutter project.
 
